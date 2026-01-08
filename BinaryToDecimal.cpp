@@ -9,7 +9,6 @@ int main(){
     int sum=0;
     int i=0;
     while (n!=0){
-
         int x=pow(2,i);
         int a=n%10;
         digit=a*x;
@@ -18,6 +17,6 @@ int main(){
         i++;
         
     }
-    cout<<sum;
+    cout<<sum<<endl;
     return 0;
 }
