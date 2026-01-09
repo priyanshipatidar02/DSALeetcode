@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 int main(){
-    long long n;
-    cout<<"enter n :";
-    cin>>n;
+    long long x;
+    cout<<"enter x :";
+    cin>>x;
     int bits=0;
-    long long temp=n;
+    long long temp=x;
     while(temp!=0){
         bits++;
         temp/=2;
@@ -15,11 +15,11 @@ int main(){
         return 0;
     }
             int rev =0;
-            while(n!=0){
+            while(x!=0){
                 
-                int digit=n%10;
+                int digit=x%10;
                 rev=rev*10+digit;
-                n/=10;
+                x/=10;
              }
     cout<<rev;
     cout<<endl;
