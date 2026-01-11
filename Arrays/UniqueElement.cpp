@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-void SortArray(int arr[], int size) { sort(arr, arr + size); }
-
 void UniqueElement(int arr[], int size) {
   cout<<"Unique elements are : ";
   for (int i = 0; i < size; i++) {
