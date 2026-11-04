@@ -13,6 +13,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
