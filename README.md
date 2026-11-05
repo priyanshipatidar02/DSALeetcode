@@ -13,6 +13,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -22,5 +23,6 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
