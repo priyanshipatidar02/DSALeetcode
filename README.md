@@ -14,6 +14,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0485-max-consecutive-ones) |
@@ -21,6 +22,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -42,5 +44,18 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
