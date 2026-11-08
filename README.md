@@ -14,6 +14,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -64,4 +66,8 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
