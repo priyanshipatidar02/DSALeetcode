@@ -19,6 +19,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | [0118-pascals-triangle](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0485-max-consecutive-ones) |
@@ -33,12 +34,14 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
