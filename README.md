@@ -13,6 +13,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0054-spiral-matrix) |
@@ -34,6 +35,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
@@ -56,6 +58,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
