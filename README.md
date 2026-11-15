@@ -16,6 +16,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -54,6 +56,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -83,4 +86,12 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | ------- |
 | [0118-pascals-triangle](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0119-pascals-triangle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
