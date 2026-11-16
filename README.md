@@ -24,6 +24,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | [0119-pascals-triangle-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 | [0015-3sum](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -74,10 +77,12 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
