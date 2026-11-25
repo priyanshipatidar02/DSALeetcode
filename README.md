@@ -51,6 +51,7 @@ This repository will grow as I progress further in **Data Structures & Algorithm
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyanshipatidar02/DSALeetcode/tree/master/0268-missing-number) |
